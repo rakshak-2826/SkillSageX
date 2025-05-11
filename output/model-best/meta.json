@@ -1,0 +1,112 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.2,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"a89eae928",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "College Name",
+      "Companies worked at",
+      "Degree",
+      "Designation",
+      "Email Address",
+      "Graduation Year",
+      "Location",
+      "Name",
+      "Skills",
+      "UNKNOWN",
+      "Years of Experience"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.8964909187,
+    "ents_p":0.89664903,
+    "ents_r":0.8963328632,
+    "ents_per_type":{
+      "Name":{
+        "p":0.9901477833,
+        "r":0.9901477833,
+        "f":0.9901477833
+      },
+      "Designation":{
+        "p":0.9419953596,
+        "r":0.935483871,
+        "f":0.9387283237
+      },
+      "Location":{
+        "p":0.9287925697,
+        "r":0.8356545961,
+        "f":0.8797653959
+      },
+      "Email Address":{
+        "p":0.9942528736,
+        "r":0.9942528736,
+        "f":0.9942528736
+      },
+      "Companies worked at":{
+        "p":0.8578125,
+        "r":0.9432989691,
+        "f":0.8985270049
+      },
+      "Degree":{
+        "p":0.9191489362,
+        "r":0.9391304348,
+        "f":0.9290322581
+      },
+      "College Name":{
+        "p":0.937254902,
+        "r":0.9521912351,
+        "f":0.9446640316
+      },
+      "Graduation Year":{
+        "p":0.8520710059,
+        "r":0.7093596059,
+        "f":0.7741935484
+      },
+      "Skills":{
+        "p":0.7607526882,
+        "r":0.7796143251,
+        "f":0.7700680272
+      },
+      "Years of Experience":{
+        "p":0.9393939394,
+        "r":0.8611111111,
+        "f":0.8985507246
+      },
+      "UNKNOWN":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
+      }
+    },
+    "tok2vec_loss":17780.0085051899,
+    "ner_loss":1419.2496494346
+  }
+}

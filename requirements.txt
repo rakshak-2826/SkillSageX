@@ -1,0 +1,29 @@
+requests
+
+# Core NLP and ML
+spacy==3.7.2
+sentence-transformers==2.2.2
+scikit-learn==1.3.2
+
+# PDF and DOCX parsing
+PyMuPDF==1.23.9         # for PDF parsing
+docx2txt==0.8           # for DOCX parsing
+
+# Hugging Face API (summary or GPTQ download if needed)
+requests==2.31.0
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Optional: CSV or pandas-based profile data
+pandas==2.1.4
+
+# If training custom spaCy NER models
+thinc==8.2.2
+
+# -----------------------------
+# GPTQ + Transformers (new)
+# -----------------------------
+transformers==4.37.2         # tested stable with auto-gptq
+auto-gptq==0.4.2             # for loading GPTQ quantized models
+accelerate==0.25.0           # needed by transformers for device map support

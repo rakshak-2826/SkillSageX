@@ -1,0 +1,3768 @@
+{
+    "Frontend Developer": {
+        "must_have": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React"
+        ],
+        "optional": [
+            "TypeScript",
+            "Redux",
+            "Tailwind CSS"
+        ],
+        "dependencies": {
+            "React": [
+                "JavaScript"
+            ],
+            "Redux": [
+                "React"
+            ],
+            "TypeScript": [
+                "JavaScript"
+            ],
+            "Tailwind CSS": [
+                "CSS"
+            ]
+        },
+        "learning_paths": {
+            "React": "Build a React Todo App",
+            "Redux": "Learn Redux Toolkit",
+            "Tailwind CSS": "Style with Tailwind on Frontend Mentor"
+        },
+        "project_ideas": {
+            "React": [
+                "Build a personal portfolio",
+                "Create a blog with comments"
+            ],
+            "Redux": [
+                "Build a shopping cart"
+            ],
+            "Tailwind CSS": [
+                "Recreate Netflix landing page"
+            ]
+        }
+    },
+    "Backend Developer": {
+        "must_have": [
+            "Java",
+            "Spring Boot",
+            "REST APIs",
+            "MySQL"
+        ],
+        "optional": [
+            "Docker",
+            "Kubernetes",
+            "Redis"
+        ],
+        "dependencies": {
+            "Spring Boot": [
+                "Java"
+            ],
+            "REST APIs": [
+                "Spring Boot"
+            ],
+            "Docker": [
+                "Java"
+            ],
+            "Kubernetes": [
+                "Docker"
+            ],
+            "Redis": [
+                "Spring Boot"
+            ]
+        },
+        "learning_paths": {
+            "Spring Boot": "Learn Spring Boot with JWT",
+            "REST APIs": "Build Bookstore API",
+            "Docker": "Containerize backend apps"
+        },
+        "project_ideas": {
+            "Spring Boot": [
+                "Build an event booking API"
+            ],
+            "Docker": [
+                "Deploy an API with Docker Compose"
+            ],
+            "Redis": [
+                "Add caching to an API"
+            ]
+        }
+    },
+    "Data Scientist": {
+        "must_have": [
+            "Python",
+            "Pandas",
+            "Scikit-learn",
+            "Data Visualization"
+        ],
+        "optional": [
+            "TensorFlow",
+            "Keras",
+            "Spark"
+        ],
+        "dependencies": {
+            "Scikit-learn": [
+                "Python"
+            ],
+            "TensorFlow": [
+                "Python"
+            ],
+            "Spark": [
+                "Python"
+            ]
+        },
+        "learning_paths": {
+            "Scikit-learn": "Train ML models with sklearn",
+            "TensorFlow": "Deep Learning with TensorFlow",
+            "Spark": "Handle Big Data with PySpark"
+        },
+        "project_ideas": {
+            "Pandas": [
+                "Analyze COVID-19 datasets"
+            ],
+            "Scikit-learn": [
+                "Build a spam detector"
+            ],
+            "TensorFlow": [
+                "Create an image classifier"
+            ]
+        }
+    },
+    "UX Designer": {
+        "must_have": [
+            "Wireframing",
+            "User Research",
+            "Prototyping",
+            "Figma"
+        ],
+        "optional": [
+            "Adobe XD",
+            "Accessibility",
+            "UI Testing"
+        ],
+        "dependencies": {
+            "Figma": [
+                "Wireframing"
+            ],
+            "UI Testing": [
+                "Prototyping"
+            ]
+        },
+        "learning_paths": {
+            "Figma": "Master UI Design with Figma",
+            "User Research": "Learn User Interview Techniques"
+        },
+        "project_ideas": {
+            "Figma": [
+                "Design a mobile banking app"
+            ],
+            "User Research": [
+                "Conduct usability tests on a product"
+            ]
+        }
+    },
+    "HR Manager": {
+        "must_have": [
+            "People Management",
+            "Recruitment",
+            "Conflict Resolution"
+        ],
+        "optional": [
+            "Payroll Systems",
+            "HR Analytics",
+            "Compliance Training"
+        ],
+        "dependencies": {
+            "Recruitment": [
+                "Job Posting"
+            ],
+            "Conflict Resolution": [
+                "Communication"
+            ]
+        },
+        "learning_paths": {
+            "Recruitment": "Master end-to-end hiring",
+            "Compliance Training": "Handle sensitive issues professionally"
+        },
+        "project_ideas": {
+            "HR Analytics": [
+                "Analyze attrition data"
+            ],
+            "Recruitment": [
+                "Create a hiring pipeline tracker"
+            ]
+        }
+    },
+    "Product Manager": {
+        "must_have": [
+            "Roadmapping",
+            "Agile Methodologies",
+            "Stakeholder Management",
+            "Market Research"
+        ],
+        "optional": [
+            "Figma",
+            "SQL",
+            "Product Analytics"
+        ],
+        "dependencies": {
+            "Agile Methodologies": [
+                "Scrum"
+            ],
+            "Product Analytics": [
+                "SQL"
+            ],
+            "Figma": [
+                "Wireframing"
+            ]
+        },
+        "learning_paths": {
+            "Roadmapping": "Learn Product Roadmapping on Coursera",
+            "Market Research": "Master Customer Insights",
+            "Product Analytics": "Analyze features using Mixpanel"
+        },
+        "project_ideas": {
+            "Agile Methodologies": [
+                "Manage a mock sprint backlog"
+            ],
+            "Product Analytics": [
+                "Run funnel analysis on a product"
+            ]
+        }
+    },
+    "Cybersecurity Analyst": {
+        "must_have": [
+            "Network Security",
+            "Incident Response",
+            "SIEM",
+            "Firewalls"
+        ],
+        "optional": [
+            "Python",
+            "Nmap",
+            "Wireshark"
+        ],
+        "dependencies": {
+            "SIEM": [
+                "Log Analysis"
+            ],
+            "Incident Response": [
+                "Threat Detection"
+            ]
+        },
+        "learning_paths": {
+            "SIEM": "Learn Splunk for Security Monitoring",
+            "Incident Response": "Respond to breaches effectively"
+        },
+        "project_ideas": {
+            "Network Security": [
+                "Simulate a DDOS attack defense"
+            ],
+            "Firewalls": [
+                "Configure pfSense on VirtualBox"
+            ]
+        }
+    },
+    "Digital Marketer": {
+        "must_have": [
+            "SEO",
+            "Google Ads",
+            "Social Media Strategy",
+            "Email Marketing"
+        ],
+        "optional": [
+            "Canva",
+            "Copywriting",
+            "Google Analytics"
+        ],
+        "dependencies": {
+            "SEO": [
+                "Keyword Research"
+            ],
+            "Google Ads": [
+                "Campaign Management"
+            ]
+        },
+        "learning_paths": {
+            "SEO": "Optimize websites for search on Moz",
+            "Email Marketing": "Build campaigns using Mailchimp"
+        },
+        "project_ideas": {
+            "Google Ads": [
+                "Run a mock PPC campaign"
+            ],
+            "Social Media Strategy": [
+                "Plan a product launch calendar"
+            ]
+        }
+    },
+    "AI/ML Engineer": {
+        "must_have": [
+            "Python",
+            "TensorFlow",
+            "Machine Learning",
+            "Deep Learning"
+        ],
+        "optional": [
+            "OpenCV",
+            "PyTorch",
+            "NLP"
+        ],
+        "dependencies": {
+            "TensorFlow": [
+                "Python"
+            ],
+            "Deep Learning": [
+                "Neural Networks"
+            ],
+            "OpenCV": [
+                "Python"
+            ]
+        },
+        "learning_paths": {
+            "TensorFlow": "Deep Learning Specialization on Coursera",
+            "NLP": "Transformers & BERT Tutorial"
+        },
+        "project_ideas": {
+            "TensorFlow": [
+                "Build a digit recognizer with MNIST"
+            ],
+            "OpenCV": [
+                "Create a face detection system"
+            ]
+        }
+    },
+    "Cloud Architect": {
+        "must_have": [
+            "AWS",
+            "GCP",
+            "Azure",
+            "Cloud Networking"
+        ],
+        "optional": [
+            "Terraform",
+            "Kubernetes",
+            "Cloud Security"
+        ],
+        "dependencies": {
+            "Kubernetes": [
+                "Docker"
+            ],
+            "Terraform": [
+                "Infrastructure as Code"
+            ]
+        },
+        "learning_paths": {
+            "AWS": "Architect AWS Solutions on A Cloud Guru",
+            "Terraform": "Manage infra with Terraform"
+        },
+        "project_ideas": {
+            "AWS": [
+                "Set up a multi-tier app on EC2"
+            ],
+            "Kubernetes": [
+                "Deploy microservices on GKE"
+            ]
+        }
+    },
+    "Sales Executive": {
+        "must_have": [
+            "CRM Tools",
+            "Lead Generation",
+            "Negotiation",
+            "B2B Sales"
+        ],
+        "optional": [
+            "Cold Calling",
+            "HubSpot",
+            "Sales Forecasting"
+        ],
+        "dependencies": {
+            "CRM Tools": [
+                "Lead Generation"
+            ],
+            "Sales Forecasting": [
+                "B2B Sales"
+            ]
+        },
+        "learning_paths": {
+            "CRM Tools": "Learn HubSpot or Salesforce basics",
+            "Negotiation": "Master B2B sales techniques"
+        },
+        "project_ideas": {
+            "Lead Generation": [
+                "Design a lead funnel for a SaaS company"
+            ]
+        }
+    },
+    "Graphic Designer": {
+        "must_have": [
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Color Theory",
+            "Typography"
+        ],
+        "optional": [
+            "Canva",
+            "Figma",
+            "Motion Graphics"
+        ],
+        "dependencies": {
+            "Typography": [
+                "Color Theory"
+            ],
+            "Motion Graphics": [
+                "Adobe After Effects"
+            ]
+        },
+        "learning_paths": {
+            "Adobe Photoshop": "Master image editing with Photoshop",
+            "Figma": "Learn UI design using Figma"
+        },
+        "project_ideas": {
+            "Adobe Illustrator": [
+                "Design a modern logo pack"
+            ],
+            "Typography": [
+                "Create a minimalist poster"
+            ]
+        }
+    },
+    "Machine Learning Engineer": {
+        "must_have": [
+            "Python",
+            "Scikit-learn",
+            "Model Deployment",
+            "Feature Engineering"
+        ],
+        "optional": [
+            "TensorFlow",
+            "Docker",
+            "MLflow"
+        ],
+        "dependencies": {
+            "Scikit-learn": [
+                "Python"
+            ],
+            "Model Deployment": [
+                "Docker"
+            ]
+        },
+        "learning_paths": {
+            "Feature Engineering": "Handle missing values, scaling, and transformations",
+            "Model Deployment": "Deploy ML model via Flask and Docker"
+        },
+        "project_ideas": {
+            "Scikit-learn": [
+                "Predict housing prices"
+            ],
+            "Model Deployment": [
+                "Build and deploy an ML API"
+            ]
+        }
+    },
+    "Cloud Engineer": {
+        "must_have": [
+            "AWS",
+            "Linux",
+            "Terraform",
+            "CI/CD"
+        ],
+        "optional": [
+            "Azure",
+            "GCP",
+            "Ansible"
+        ],
+        "dependencies": {
+            "Terraform": [
+                "AWS"
+            ],
+            "CI/CD": [
+                "Linux"
+            ]
+        },
+        "learning_paths": {
+            "AWS": "Get AWS Certified Solutions Architect - Associate",
+            "Terraform": "Learn infrastructure as code"
+        },
+        "project_ideas": {
+            "AWS": [
+                "Host a serverless app"
+            ],
+            "Terraform": [
+                "Set up scalable infrastructure"
+            ]
+        }
+    },
+    "Content Writer": {
+        "must_have": [
+            "SEO Writing",
+            "Grammar",
+            "Storytelling",
+            "Blogging"
+        ],
+        "optional": [
+            "Content Marketing",
+            "Email Newsletters",
+            "Ghostwriting"
+        ],
+        "dependencies": {
+            "SEO Writing": [
+                "Grammar"
+            ],
+            "Email Newsletters": [
+                "Storytelling"
+            ]
+        },
+        "learning_paths": {
+            "SEO Writing": "Master keyword research and formatting",
+            "Blogging": "Build a content calendar"
+        },
+        "project_ideas": {
+            "SEO Writing": [
+                "Write 3 blog posts optimized for search"
+            ],
+            "Email Newsletters": [
+                "Design a monthly newsletter series"
+            ]
+        }
+    },
+    "DevOps Engineer": {
+        "must_have": [
+            "Linux",
+            "Docker",
+            "CI/CD",
+            "Jenkins"
+        ],
+        "optional": [
+            "Terraform",
+            "Kubernetes",
+            "AWS"
+        ],
+        "dependencies": {
+            "CI/CD": [
+                "Jenkins"
+            ],
+            "Kubernetes": [
+                "Docker"
+            ],
+            "Terraform": [
+                "AWS"
+            ]
+        },
+        "learning_paths": {
+            "Docker": "Master Docker with Practical Projects",
+            "CI/CD": "Set up CI/CD Pipelines with Jenkins"
+        },
+        "project_ideas": {
+            "CI/CD": [
+                "Build an automated deployment pipeline"
+            ],
+            "Terraform": [
+                "Provision cloud infrastructure"
+            ]
+        }
+    },
+    "Mobile App Developer": {
+        "must_have": [
+            "Flutter",
+            "Dart",
+            "UI/UX",
+            "Firebase"
+        ],
+        "optional": [
+            "Swift",
+            "Kotlin",
+            "Push Notifications"
+        ],
+        "dependencies": {
+            "Flutter": [
+                "Dart"
+            ],
+            "Firebase": [
+                "Authentication",
+                "Database"
+            ]
+        },
+        "learning_paths": {
+            "Flutter": "Build cross-platform apps",
+            "Firebase": "Integrate Firebase in your apps"
+        },
+        "project_ideas": {
+            "Flutter": [
+                "Create a to-do app"
+            ],
+            "Firebase": [
+                "Implement login/logout with Google"
+            ]
+        }
+    },
+    "QA Engineer": {
+        "must_have": [
+            "Test Cases",
+            "Selenium",
+            "JIRA",
+            "Bug Reporting"
+        ],
+        "optional": [
+            "Postman",
+            "Unit Testing",
+            "CI Integration"
+        ],
+        "dependencies": {
+            "Selenium": [
+                "Java"
+            ],
+            "Postman": [
+                "API Testing"
+            ]
+        },
+        "learning_paths": {
+            "Selenium": "Automate browser testing",
+            "Bug Reporting": "Log bugs effectively using JIRA"
+        },
+        "project_ideas": {
+            "Selenium": [
+                "Automate a login/logout test"
+            ],
+            "Postman": [
+                "Validate API responses"
+            ]
+        }
+    },
+    "Business Analyst": {
+        "must_have": [
+            "Requirement Gathering",
+            "Stakeholder Management",
+            "Data Analysis",
+            "MS Excel"
+        ],
+        "optional": [
+            "SQL",
+            "Power BI",
+            "Agile"
+        ],
+        "dependencies": {
+            "Data Analysis": [
+                "Excel"
+            ],
+            "Power BI": [
+                "Data Modeling"
+            ]
+        },
+        "learning_paths": {
+            "Requirement Gathering": "Capture project needs efficiently",
+            "Power BI": "Visualize KPIs and reports"
+        },
+        "project_ideas": {
+            "Excel": [
+                "Create a financial dashboard"
+            ],
+            "SQL": [
+                "Analyze customer churn"
+            ]
+        }
+    },
+    "AR/VR Developer": {
+        "must_have": [
+            "Unity",
+            "C#",
+            "3D Modeling",
+            "VR Interaction"
+        ],
+        "optional": [
+            "Blender",
+            "Unreal Engine",
+            "UX"
+        ],
+        "dependencies": {
+            "Unity": [
+                "C#"
+            ],
+            "3D Modeling": [
+                "Blender"
+            ]
+        },
+        "learning_paths": {
+            "Unity": "Build AR/VR Games",
+            "3D Modeling": "Design 3D assets in Blender"
+        },
+        "project_ideas": {
+            "Unity": [
+                "Create a VR museum experience"
+            ],
+            "Blender": [
+                "Model virtual furniture"
+            ]
+        }
+    },
+    "SEO Specialist": {
+        "must_have": [
+            "Keyword Research",
+            "Google Analytics",
+            "On-page SEO",
+            "Link Building"
+        ],
+        "optional": [
+            "Ahrefs",
+            "Technical SEO",
+            "Content Strategy"
+        ],
+        "dependencies": {
+            "On-page SEO": [
+                "Keyword Research"
+            ],
+            "Link Building": [
+                "Content Strategy"
+            ]
+        },
+        "learning_paths": {
+            "Keyword Research": "Find high-converting keywords",
+            "Google Analytics": "Track website performance"
+        },
+        "project_ideas": {
+            "On-page SEO": [
+                "Optimize a blog post for ranking"
+            ],
+            "Google Analytics": [
+                "Monitor visitor behavior"
+            ]
+        }
+    },
+    "Social Media Manager": {
+        "must_have": [
+            "Content Strategy",
+            "Platform Management",
+            "Analytics",
+            "Engagement Tactics"
+        ],
+        "optional": [
+            "Paid Ads",
+            "Hashtag Strategy",
+            "Influencer Outreach"
+        ],
+        "dependencies": {
+            "Platform Management": [
+                "Instagram",
+                "LinkedIn"
+            ],
+            "Analytics": [
+                "Social Insights"
+            ]
+        },
+        "learning_paths": {
+            "Content Strategy": "Create a 30-day content plan",
+            "Analytics": "Track post engagement metrics"
+        },
+        "project_ideas": {
+            "Content Strategy": [
+                "Plan and schedule a campaign"
+            ],
+            "Analytics": [
+                "Measure growth metrics"
+            ]
+        }
+    },
+    "Digital Marketing Specialist": {
+        "must_have": [
+            "SEO",
+            "Google Ads",
+            "Analytics",
+            "Content Marketing"
+        ],
+        "optional": [
+            "Email Marketing",
+            "Social Media",
+            "Copywriting"
+        ],
+        "dependencies": {
+            "Google Ads": [
+                "SEO"
+            ],
+            "Analytics": [
+                "Google Ads"
+            ]
+        },
+        "learning_paths": {
+            "SEO": "Master SEO from Moz Academy",
+            "Analytics": "Google Analytics Certification"
+        },
+        "project_ideas": {
+            "Google Ads": [
+                "Run a sample campaign"
+            ],
+            "SEO": [
+                "Optimize a blog for search engines"
+            ]
+        }
+    },
+    "Cloud Solutions Architect": {
+        "must_have": [
+            "AWS",
+            "Azure",
+            "Cloud Design Patterns",
+            "CI/CD"
+        ],
+        "optional": [
+            "Terraform",
+            "Cloud Cost Optimization",
+            "Docker"
+        ],
+        "dependencies": {
+            "CI/CD": [
+                "AWS"
+            ],
+            "Terraform": [
+                "Azure"
+            ]
+        },
+        "learning_paths": {
+            "AWS": "Design scalable architectures on AWS",
+            "Terraform": "Infrastructure as Code with Terraform"
+        },
+        "project_ideas": {
+            "AWS": [
+                "Multi-tier application deployment"
+            ],
+            "Terraform": [
+                "Automate VPC setup"
+            ]
+        }
+    },
+    "AI Researcher": {
+        "must_have": [
+            "Deep Learning",
+            "Python",
+            "NLP",
+            "TensorFlow"
+        ],
+        "optional": [
+            "Transformers",
+            "PyTorch",
+            "Distributed Training"
+        ],
+        "dependencies": {
+            "NLP": [
+                "Deep Learning"
+            ],
+            "Transformers": [
+                "NLP"
+            ]
+        },
+        "learning_paths": {
+            "NLP": "NLP with HuggingFace Transformers",
+            "TensorFlow": "Research models with TensorFlow"
+        },
+        "project_ideas": {
+            "NLP": [
+                "Summarize academic papers"
+            ],
+            "Transformers": [
+                "Build a chatbot"
+            ]
+        }
+    },
+    "Financial Analyst": {
+        "must_have": [
+            "Excel",
+            "Financial Modeling",
+            "Accounting",
+            "Forecasting"
+        ],
+        "optional": [
+            "Power BI",
+            "Python",
+            "Valuation"
+        ],
+        "dependencies": {
+            "Financial Modeling": [
+                "Excel"
+            ],
+            "Forecasting": [
+                "Accounting"
+            ]
+        },
+        "learning_paths": {
+            "Excel": "Financial Modeling in Excel",
+            "Forecasting": "Time-series forecasting for finance"
+        },
+        "project_ideas": {
+            "Excel": [
+                "Build DCF valuation model"
+            ],
+            "Power BI": [
+                "Create a financial dashboard"
+            ]
+        }
+    },
+    "Data Engineer": {
+        "must_have": [
+            "ETL",
+            "SQL",
+            "Spark",
+            "Data Warehousing"
+        ],
+        "optional": [
+            "Airflow",
+            "Kafka",
+            "Python"
+        ],
+        "dependencies": {
+            "ETL": [
+                "SQL"
+            ],
+            "Airflow": [
+                "Python"
+            ]
+        },
+        "learning_paths": {
+            "ETL": "Build pipelines with Talend or Glue",
+            "Airflow": "Automate workflows with Airflow"
+        },
+        "project_ideas": {
+            "ETL": [
+                "Pipeline to clean user activity logs"
+            ],
+            "Airflow": [
+                "Schedule ETL with DAGs"
+            ]
+        }
+    },
+    "Video Editor": {
+        "must_have": [
+            "Adobe Premiere Pro",
+            "Storyboarding",
+            "Color Correction",
+            "Sound Editing"
+        ],
+        "optional": [
+            "After Effects",
+            "DaVinci Resolve",
+            "Motion Graphics"
+        ],
+        "dependencies": {
+            "Sound Editing": [
+                "Storyboarding"
+            ],
+            "After Effects": [
+                "Adobe Premiere Pro"
+            ]
+        },
+        "learning_paths": {
+            "Adobe Premiere Pro": "Master editing in Premiere",
+            "Motion Graphics": "Create animated titles"
+        },
+        "project_ideas": {
+            "Color Correction": [
+                "Edit a travel vlog"
+            ],
+            "After Effects": [
+                "Make a product promo"
+            ]
+        }
+    },
+    "Blockchain Developer": {
+        "must_have": [
+            "Solidity",
+            "Ethereum",
+            "Smart Contracts",
+            "Web3.js"
+        ],
+        "optional": [
+            "Hardhat",
+            "Polygon",
+            "IPFS"
+        ],
+        "dependencies": {
+            "Smart Contracts": [
+                "Solidity"
+            ],
+            "Web3.js": [
+                "Ethereum"
+            ]
+        },
+        "learning_paths": {
+            "Solidity": "Build smart contracts with Solidity",
+            "Hardhat": "Test smart contracts with Hardhat"
+        },
+        "project_ideas": {
+            "Solidity": [
+                "Create a voting dApp"
+            ],
+            "IPFS": [
+                "Build a decentralized file system"
+            ]
+        }
+    },
+    "Technical Writer": {
+        "must_have": [
+            "Technical Documentation",
+            "Markdown",
+            "Git",
+            "Diagrams.net"
+        ],
+        "optional": [
+            "Confluence",
+            "LaTeX",
+            "Snagit"
+        ],
+        "dependencies": {
+            "Git": [
+                "Markdown"
+            ],
+            "Confluence": [
+                "Technical Documentation"
+            ]
+        },
+        "learning_paths": {
+            "Markdown": "Write clean docs with Markdown",
+            "Confluence": "Document workflows in Confluence"
+        },
+        "project_ideas": {
+            "Git": [
+                "Maintain changelog for a project"
+            ],
+            "Markdown": [
+                "Write an open-source README"
+            ]
+        }
+    },
+    "System Administrator": {
+        "must_have": [
+            "Linux",
+            "Shell Scripting",
+            "Networking",
+            "Virtualization"
+        ],
+        "optional": [
+            "Ansible",
+            "AWS",
+            "DNS Management"
+        ],
+        "dependencies": {
+            "Ansible": [
+                "Linux"
+            ],
+            "Virtualization": [
+                "Networking"
+            ]
+        },
+        "learning_paths": {
+            "Shell Scripting": "Automate tasks with Bash scripts",
+            "Ansible": "Deploy configs at scale"
+        },
+        "project_ideas": {
+            "Linux": [
+                "Set up a personal Ubuntu server"
+            ],
+            "Ansible": [
+                "Configure multiple VMs"
+            ]
+        }
+    },
+    "Site Reliability Engineer": {
+        "must_have": [
+            "Linux",
+            "Monitoring Tools",
+            "CI/CD",
+            "Python"
+        ],
+        "optional": [
+            "Go",
+            "Kubernetes",
+            "AWS"
+        ],
+        "dependencies": {
+            "CI/CD": [
+                "Linux"
+            ],
+            "Monitoring Tools": [
+                "Linux"
+            ],
+            "Kubernetes": [
+                "Docker"
+            ]
+        },
+        "learning_paths": {
+            "Monitoring Tools": "Master Prometheus + Grafana",
+            "CI/CD": "Automate deployment pipelines",
+            "Go": "Build systems with Go"
+        },
+        "project_ideas": {
+            "Monitoring Tools": [
+                "Setup infra monitoring for a microservice"
+            ],
+            "Go": [
+                "Build a load balancer with Go"
+            ]
+        }
+    },
+    "Digital Marketing Manager": {
+        "must_have": [
+            "SEO",
+            "Google Ads",
+            "Email Marketing",
+            "Analytics"
+        ],
+        "optional": [
+            "Content Strategy",
+            "Copywriting",
+            "Figma"
+        ],
+        "dependencies": {
+            "Google Ads": [
+                "SEO"
+            ],
+            "Analytics": [
+                "Email Marketing"
+            ]
+        },
+        "learning_paths": {
+            "SEO": "Rank content on Google",
+            "Google Ads": "Master PPC Campaigns"
+        },
+        "project_ideas": {
+            "Analytics": [
+                "Run & report campaign performance"
+            ],
+            "Copywriting": [
+                "Create ad copy variations"
+            ]
+        }
+    },
+    "Ecommerce Manager": {
+        "must_have": [
+            "Shopify",
+            "Inventory Management",
+            "Product Analytics"
+        ],
+        "optional": [
+            "Google Ads",
+            "Email Campaigns",
+            "UX"
+        ],
+        "dependencies": {
+            "Email Campaigns": [
+                "Product Analytics"
+            ],
+            "Google Ads": [
+                "Shopify"
+            ]
+        },
+        "learning_paths": {
+            "Shopify": "Launch your ecommerce site",
+            "Product Analytics": "Track buyer behavior"
+        },
+        "project_ideas": {
+            "Email Campaigns": [
+                "Create cart abandonment series"
+            ],
+            "UX": [
+                "Optimize product listing UI"
+            ]
+        }
+    },
+    "Game Developer": {
+        "must_have": [
+            "C#",
+            "Unity",
+            "Game Physics",
+            "2D/3D Graphics"
+        ],
+        "optional": [
+            "Unreal Engine",
+            "C++",
+            "Shader Programming"
+        ],
+        "dependencies": {
+            "Unity": [
+                "C#"
+            ],
+            "Shader Programming": [
+                "Graphics"
+            ]
+        },
+        "learning_paths": {
+            "Unity": "Complete Unity Developer Course (Udemy)",
+            "Game Physics": "Learn Rigidbody & Colliders"
+        },
+        "project_ideas": {
+            "Unity": [
+                "Build a 2D platformer",
+                "Create a 3D racing game"
+            ],
+            "Shader Programming": [
+                "Implement water effects"
+            ]
+        }
+    },
+    "Technical Recruiter": {
+        "must_have": [
+            "ATS Systems",
+            "Candidate Screening",
+            "Sourcing",
+            "Interviews"
+        ],
+        "optional": [
+            "Boolean Search",
+            "Employer Branding",
+            "LinkedIn Recruiter"
+        ],
+        "dependencies": {
+            "Candidate Screening": [
+                "Sourcing"
+            ]
+        },
+        "learning_paths": {
+            "ATS Systems": "Master Greenhouse or Lever",
+            "Boolean Search": "Advanced sourcing strategies"
+        },
+        "project_ideas": {
+            "Sourcing": [
+                "Build a tech talent pipeline"
+            ],
+            "Employer Branding": [
+                "Design a candidate experience flow"
+            ]
+        }
+    },
+    "Robotics Engineer": {
+        "must_have": [
+            "ROS",
+            "Python",
+            "Embedded Systems",
+            "Control Systems"
+        ],
+        "optional": [
+            "C++",
+            "SLAM",
+            "Mechanical CAD"
+        ],
+        "dependencies": {
+            "ROS": [
+                "Python"
+            ],
+            "SLAM": [
+                "Sensors"
+            ]
+        },
+        "learning_paths": {
+            "ROS": "Robot Operating System Beginner Tutorial",
+            "Control Systems": "PID Controllers in Robotics"
+        },
+        "project_ideas": {
+            "ROS": [
+                "Build a line-following robot"
+            ],
+            "SLAM": [
+                "Simulate autonomous navigation"
+            ]
+        }
+    },
+    "Instructional Designer": {
+        "must_have": [
+            "Curriculum Development",
+            "Learning Objectives",
+            "Storyboarding",
+            "Assessment Design"
+        ],
+        "optional": [
+            "Articulate 360",
+            "Camtasia",
+            "SCORM"
+        ],
+        "dependencies": {
+            "Assessment Design": [
+                "Learning Objectives"
+            ]
+        },
+        "learning_paths": {
+            "Storyboarding": "Storyline Development for E-learning",
+            "SCORM": "Package courses for LMS"
+        },
+        "project_ideas": {
+            "Curriculum Development": [
+                "Design a course outline for tech onboarding"
+            ],
+            "SCORM": [
+                "Export a course for Moodle"
+            ]
+        }
+    },
+    "CRM Specialist": {
+        "must_have": [
+            "Salesforce",
+            "Customer Segmentation",
+            "Automation Rules",
+            "Campaign Tracking"
+        ],
+        "optional": [
+            "HubSpot",
+            "Zoho",
+            "API Integration"
+        ],
+        "dependencies": {
+            "Campaign Tracking": [
+                "Customer Segmentation"
+            ]
+        },
+        "learning_paths": {
+            "Salesforce": "Admin Beginner Trailhead",
+            "Automation Rules": "Email Automation with HubSpot"
+        },
+        "project_ideas": {
+            "Salesforce": [
+                "Track customer lifecycle"
+            ],
+            "HubSpot": [
+                "Build a lead nurturing workflow"
+            ]
+        }
+    },
+    "Mechanical Engineer": {
+        "must_have": [
+            "AutoCAD",
+            "SolidWorks",
+            "Thermodynamics",
+            "Material Science"
+        ],
+        "optional": [
+            "ANSYS",
+            "FEA",
+            "CNC Machining"
+        ],
+        "dependencies": {
+            "FEA": [
+                "SolidWorks"
+            ]
+        },
+        "learning_paths": {
+            "SolidWorks": "Model mechanical parts",
+            "Thermodynamics": "Study energy systems"
+        },
+        "project_ideas": {
+            "SolidWorks": [
+                "Design a gear mechanism"
+            ],
+            "ANSYS": [
+                "Simulate stress on a bracket"
+            ]
+        }
+    },
+    "Legal Associate": {
+        "must_have": [
+            "Legal Research",
+            "Case Law Analysis",
+            "Client Consultation",
+            "Contracts"
+        ],
+        "optional": [
+            "Corporate Law",
+            "Compliance",
+            "Litigation"
+        ],
+        "dependencies": {
+            "Contracts": [
+                "Legal Research"
+            ]
+        },
+        "learning_paths": {
+            "Legal Research": "Westlaw/LexisNexis Tutorials",
+            "Corporate Law": "M&A Fundamentals"
+        },
+        "project_ideas": {
+            "Case Law Analysis": [
+                "Summarize landmark judgments"
+            ],
+            "Contracts": [
+                "Draft a service agreement"
+            ]
+        }
+    },
+    "Event Planner": {
+        "must_have": [
+            "Vendor Management",
+            "Budgeting",
+            "Scheduling",
+            "Client Communication"
+        ],
+        "optional": [
+            "CRM",
+            "Social Media",
+            "Design Tools"
+        ],
+        "dependencies": {
+            "Budgeting": [
+                "Scheduling"
+            ]
+        },
+        "learning_paths": {
+            "Vendor Management": "Master event coordination",
+            "CRM": "Track guest interactions"
+        },
+        "project_ideas": {
+            "Scheduling": [
+                "Plan a 3-day conference"
+            ],
+            "Design Tools": [
+                "Create event invites"
+            ]
+        }
+    },
+    "Chemist": {
+        "must_have": [
+            "Analytical Chemistry",
+            "Lab Safety",
+            "Chromatography",
+            "Spectroscopy"
+        ],
+        "optional": [
+            "Organic Chemistry",
+            "Data Analysis",
+            "Research Documentation"
+        ],
+        "dependencies": {
+            "Chromatography": [
+                "Analytical Chemistry"
+            ]
+        },
+        "learning_paths": {
+            "Spectroscopy": "Learn UV-Vis and IR spectroscopy basics",
+            "Chromatography": "Understand HPLC process"
+        },
+        "project_ideas": {
+            "Lab Safety": [
+                "Design a chemical lab checklist"
+            ],
+            "Data Analysis": [
+                "Analyze reaction yield data"
+            ]
+        }
+    },
+    "Librarian": {
+        "must_have": [
+            "Cataloging",
+            "Information Literacy",
+            "Library Systems",
+            "Reference Services"
+        ],
+        "optional": [
+            "Digital Archiving",
+            "Metadata Standards",
+            "Event Coordination"
+        ],
+        "dependencies": {
+            "Library Systems": [
+                "Cataloging"
+            ]
+        },
+        "learning_paths": {
+            "Cataloging": "Use Dewey Decimal or MARC21",
+            "Digital Archiving": "Basics of preservation and metadata"
+        },
+        "project_ideas": {
+            "Information Literacy": [
+                "Create a tutorial on evaluating sources"
+            ],
+            "Event Coordination": [
+                "Organize a library outreach event"
+            ]
+        }
+    },
+    "Game Designer": {
+        "must_have": [
+            "Game Mechanics",
+            "Unity",
+            "Level Design",
+            "Storyboarding"
+        ],
+        "optional": [
+            "C#",
+            "3D Modeling",
+            "Player Feedback"
+        ],
+        "dependencies": {
+            "Unity": [
+                "C#"
+            ],
+            "3D Modeling": [
+                "Level Design"
+            ]
+        },
+        "learning_paths": {
+            "Unity": "Build a 2D platformer game",
+            "Game Mechanics": "Study addictive gameplay loops"
+        },
+        "project_ideas": {
+            "Level Design": [
+                "Create a puzzle game prototype"
+            ],
+            "Storyboarding": [
+                "Write a visual game narrative"
+            ]
+        }
+    },
+    "Clinical Psychologist": {
+        "must_have": [
+            "Behavioral Assessment",
+            "Counseling",
+            "Cognitive Therapy",
+            "Ethics"
+        ],
+        "optional": [
+            "Group Therapy",
+            "Report Writing",
+            "Case Studies"
+        ],
+        "dependencies": {
+            "Cognitive Therapy": [
+                "Behavioral Assessment"
+            ]
+        },
+        "learning_paths": {
+            "Counseling": "Psychology-based counseling diploma",
+            "Ethics": "Understand APA code of ethics"
+        },
+        "project_ideas": {
+            "Behavioral Assessment": [
+                "Develop a stress test survey"
+            ],
+            "Case Studies": [
+                "Compile patient recovery journals"
+            ]
+        }
+    },
+    "Legal Advisor": {
+        "must_have": [
+            "Contract Law",
+            "Legal Research",
+            "Litigation",
+            "Client Counseling"
+        ],
+        "optional": [
+            "Corporate Law",
+            "Compliance",
+            "Legal Drafting"
+        ],
+        "dependencies": {
+            "Contract Law": [
+                "Legal Drafting"
+            ],
+            "Compliance": [
+                "Corporate Law"
+            ]
+        },
+        "learning_paths": {
+            "Legal Research": "Master Westlaw and LexisNexis",
+            "Litigation": "Courtroom procedures and evidence"
+        },
+        "project_ideas": {
+            "Contract Law": [
+                "Review an NDA or lease agreement"
+            ],
+            "Legal Drafting": [
+                "Write a basic business contract"
+            ]
+        }
+    },
+    "Nutritionist": {
+        "must_have": [
+            "Diet Planning",
+            "Nutrition Science",
+            "Public Health",
+            "Client Counseling"
+        ],
+        "optional": [
+            "Meal Planning Apps",
+            "Fitness Coaching",
+            "Food Safety"
+        ],
+        "dependencies": {
+            "Public Health": [
+                "Nutrition Science"
+            ]
+        },
+        "learning_paths": {
+            "Diet Planning": "Create customized diet plans",
+            "Food Safety": "Learn FSSAI or HACCP standards"
+        },
+        "project_ideas": {
+            "Nutrition Science": [
+                "Analyze macronutrient breakdown"
+            ],
+            "Fitness Coaching": [
+                "Design diet + workout combo"
+            ]
+        }
+    },
+    "Biomedical Engineer": {
+        "must_have": [
+            "Biomedical Instrumentation",
+            "Anatomy",
+            "Matlab",
+            "Signal Processing"
+        ],
+        "optional": [
+            "Image Analysis",
+            "Embedded Systems",
+            "LabVIEW"
+        ],
+        "dependencies": {
+            "Signal Processing": [
+                "Matlab"
+            ]
+        },
+        "learning_paths": {
+            "Biomedical Instrumentation": "Build ECG or EMG sensors",
+            "Anatomy": "Study human systems in 3D"
+        },
+        "project_ideas": {
+            "Image Analysis": [
+                "Analyze MRI scans using Python"
+            ],
+            "LabVIEW": [
+                "Simulate a patient monitor"
+            ]
+        }
+    },
+    "Ethical Hacker": {
+        "must_have": [
+            "Penetration Testing",
+            "Kali Linux",
+            "Wireshark",
+            "Burp Suite"
+        ],
+        "optional": [
+            "Python Scripting",
+            "Metasploit",
+            "Social Engineering"
+        ],
+        "dependencies": {
+            "Burp Suite": [
+                "Kali Linux"
+            ],
+            "Metasploit": [
+                "Penetration Testing"
+            ]
+        },
+        "learning_paths": {
+            "Wireshark": "Analyze packet traffic",
+            "Penetration Testing": "Hack the box walkthroughs"
+        },
+        "project_ideas": {
+            "Kali Linux": [
+                "Exploit a test VM"
+            ],
+            "Burp Suite": [
+                "Test login form vulnerabilities"
+            ]
+        }
+    },
+    "Travel Consultant": {
+        "must_have": [
+            "Itinerary Planning",
+            "Customer Service",
+            "Booking Systems",
+            "Travel Regulations"
+        ],
+        "optional": [
+            "Foreign Languages",
+            "Travel Insurance",
+            "CRM"
+        ],
+        "dependencies": {
+            "Itinerary Planning": [
+                "Booking Systems"
+            ]
+        },
+        "learning_paths": {
+            "Customer Service": "Train in hospitality service",
+            "Travel Regulations": "Learn visa processes"
+        },
+        "project_ideas": {
+            "Itinerary Planning": [
+                "Design a 7-day Europe trip"
+            ],
+            "CRM": [
+                "Manage fictional client database"
+            ]
+        }
+    },
+    "Fashion Designer": {
+        "must_have": [
+            "Sketching",
+            "Textile Knowledge",
+            "Color Theory",
+            "Pattern Making"
+        ],
+        "optional": [
+            "3D Fashion Tools",
+            "Sewing",
+            "Illustrator"
+        ],
+        "dependencies": {
+            "Pattern Making": [
+                "Sketching"
+            ],
+            "3D Fashion Tools": [
+                "Illustrator"
+            ]
+        },
+        "learning_paths": {
+            "Sketching": "Fashion design from scratch",
+            "Pattern Making": "Use CLO3D or manual methods"
+        },
+        "project_ideas": {
+            "Sewing": [
+                "Stitch a casual dress"
+            ],
+            "Illustrator": [
+                "Create a design catalog"
+            ]
+        }
+    },
+    "Real Estate Agent": {
+        "must_have": [
+            "Property Law",
+            "Sales",
+            "Negotiation",
+            "CRM"
+        ],
+        "optional": [
+            "Market Analysis",
+            "Photography",
+            "Legal Drafting"
+        ],
+        "dependencies": {
+            "Negotiation": [
+                "Sales"
+            ]
+        },
+        "learning_paths": {
+            "Property Law": "Understand RERA & Land Acts",
+            "CRM": "Use software like Zoho or Hubspot"
+        },
+        "project_ideas": {
+            "Market Analysis": [
+                "Compare urban vs rural pricing"
+            ],
+            "Photography": [
+                "Shoot a property brochure"
+            ]
+        }
+    },
+    "Electrician": {
+        "must_have": [
+            "Circuit Diagrams",
+            "Safety Codes",
+            "Wiring",
+            "Troubleshooting"
+        ],
+        "optional": [
+            "Home Automation",
+            "Solar Systems",
+            "Battery Management"
+        ],
+        "dependencies": {
+            "Wiring": [
+                "Circuit Diagrams"
+            ]
+        },
+        "learning_paths": {
+            "Safety Codes": "Study IEC & National Codes",
+            "Home Automation": "Install smart lighting"
+        },
+        "project_ideas": {
+            "Solar Systems": [
+                "Design a rooftop inverter setup"
+            ],
+            "Wiring": [
+                "Plan layout for 2BHK apartment"
+            ]
+        }
+    },
+    "Sustainability Analyst": {
+        "must_have": [
+            "Carbon Accounting",
+            "Life Cycle Assessment",
+            "Sustainability Reporting",
+            "Data Analysis"
+        ],
+        "optional": [
+            "GIS",
+            "Climate Models",
+            "Green Finance"
+        ],
+        "dependencies": {
+            "Life Cycle Assessment": [
+                "Carbon Accounting"
+            ]
+        },
+        "learning_paths": {
+            "Sustainability Reporting": "Write mock ESG reports",
+            "Carbon Accounting": "Track CO2 emissions"
+        },
+        "project_ideas": {
+            "GIS": [
+                "Map deforestation patterns"
+            ],
+            "Green Finance": [
+                "Propose ESG investments"
+            ]
+        }
+    },
+    "Motion Graphics Designer": {
+        "must_have": [
+            "After Effects",
+            "Animation",
+            "Typography",
+            "Video Editing"
+        ],
+        "optional": [
+            "Cinema 4D",
+            "Scripting",
+            "Storyboarding"
+        ],
+        "dependencies": {
+            "After Effects": [
+                "Animation"
+            ],
+            "Cinema 4D": [
+                "3D Concepts"
+            ]
+        },
+        "learning_paths": {
+            "After Effects": "Animate with easing curves",
+            "Typography": "Learn kinetic typography"
+        },
+        "project_ideas": {
+            "Animation": [
+                "Create an animated logo"
+            ],
+            "Storyboarding": [
+                "Visualize a YouTube intro"
+            ]
+        }
+    },
+    "Civil Engineer": {
+        "must_have": [
+            "Structural Analysis",
+            "AutoCAD",
+            "Surveying",
+            "Construction Materials"
+        ],
+        "optional": [
+            "Revit",
+            "Project Management",
+            "GIS"
+        ],
+        "dependencies": {
+            "AutoCAD": [
+                "Structural Analysis"
+            ]
+        },
+        "learning_paths": {
+            "Surveying": "Use total station tools",
+            "Revit": "Model structural elements"
+        },
+        "project_ideas": {
+            "Structural Analysis": [
+                "Design a single-story building"
+            ],
+            "Project Management": [
+                "Track a 3-month site schedule"
+            ]
+        }
+    },
+    "Voice Over Artist": {
+        "must_have": [
+            "Voice Modulation",
+            "Dubbing",
+            "Script Reading",
+            "Studio Recording"
+        ],
+        "optional": [
+            "Audio Editing",
+            "Sound Effects",
+            "Foreign Language"
+        ],
+        "dependencies": {
+            "Dubbing": [
+                "Voice Modulation"
+            ]
+        },
+        "learning_paths": {
+            "Script Reading": "Practice narration scripts",
+            "Studio Recording": "Use Audacity or Adobe Audition"
+        },
+        "project_ideas": {
+            "Voice Modulation": [
+                "Record different emotions"
+            ],
+            "Audio Editing": [
+                "Clean raw audio samples"
+            ]
+        }
+    },
+    "Nutrition Coach": {
+        "must_have": [
+            "Diet Analysis",
+            "Meal Plans",
+            "Client Tracking",
+            "Nutrition Science"
+        ],
+        "optional": [
+            "Supplements",
+            "Food Psychology",
+            "Fitness Sync"
+        ],
+        "dependencies": {
+            "Meal Plans": [
+                "Diet Analysis"
+            ]
+        },
+        "learning_paths": {
+            "Nutrition Science": "Basics of macro/micronutrients",
+            "Client Tracking": "Use apps like Cronometer"
+        },
+        "project_ideas": {
+            "Meal Plans": [
+                "Plan weekly meals for a diabetic"
+            ],
+            "Food Psychology": [
+                "Research binge-eating patterns"
+            ]
+        }
+    },
+    "Petroleum Engineer": {
+        "must_have": [
+            "Reservoir Simulation",
+            "Drilling Engineering",
+            "Petrophysics",
+            "Production Optimization"
+        ],
+        "optional": [
+            "MATLAB",
+            "AutoCAD",
+            "HSE Compliance"
+        ],
+        "dependencies": {
+            "Drilling Engineering": [
+                "Reservoir Simulation"
+            ],
+            "Production Optimization": [
+                "Petrophysics"
+            ]
+        },
+        "learning_paths": {
+            "Reservoir Simulation": "Master reservoir modeling tools",
+            "Petrophysics": "Understand rock and fluid properties",
+            "Drilling Engineering": "Learn well design techniques"
+        },
+        "project_ideas": {
+            "Reservoir Simulation": [
+                "Simulate oil reservoir extraction"
+            ],
+            "Drilling Engineering": [
+                "Design a directional drilling plan"
+            ]
+        }
+    },
+    "Aeronautical Engineer": {
+        "must_have": [
+            "Aerodynamics",
+            "Flight Mechanics",
+            "Propulsion Systems",
+            "Structural Analysis"
+        ],
+        "optional": [
+            "ANSYS",
+            "CFD Simulation",
+            "Avionics"
+        ],
+        "dependencies": {
+            "CFD Simulation": [
+                "Aerodynamics"
+            ]
+        },
+        "learning_paths": {
+            "Flight Mechanics": "Study aircraft stability & control",
+            "Structural Analysis": "Learn finite element methods"
+        },
+        "project_ideas": {
+            "Aerodynamics": [
+                "Model airflow over a wing"
+            ],
+            "Propulsion Systems": [
+                "Compare jet vs turboprop engines"
+            ]
+        }
+    },
+    "Chemical Engineer": {
+        "must_have": [
+            "Thermodynamics",
+            "Process Design",
+            "Reaction Engineering",
+            "Mass Transfer"
+        ],
+        "optional": [
+            "HYSYS",
+            "Process Simulation",
+            "Catalysis"
+        ],
+        "dependencies": {
+            "Process Simulation": [
+                "Thermodynamics"
+            ]
+        },
+        "learning_paths": {
+            "Reaction Engineering": "Learn reaction kinetics modeling",
+            "Mass Transfer": "Understand separation processes"
+        },
+        "project_ideas": {
+            "Process Design": [
+                "Design a small-scale distillation unit"
+            ]
+        }
+    },
+    "Marine Engineer": {
+        "must_have": [
+            "Marine Propulsion",
+            "Fluid Mechanics",
+            "Ship Design",
+            "Control Systems"
+        ],
+        "optional": [
+            "CAD Software",
+            "Navigation Systems",
+            "Hydraulics"
+        ],
+        "dependencies": {
+            "Marine Propulsion": [
+                "Fluid Mechanics"
+            ]
+        },
+        "learning_paths": {
+            "Ship Design": "Learn about hull geometry and stability",
+            "Control Systems": "Model autonomous ship behavior"
+        },
+        "project_ideas": {
+            "Marine Propulsion": [
+                "Design an energy-efficient propeller"
+            ]
+        }
+    },
+    "Environmental Scientist": {
+        "must_have": [
+            "Environmental Impact Assessment",
+            "GIS",
+            "Soil Testing",
+            "Water Sampling"
+        ],
+        "optional": [
+            "QGIS",
+            "Statistical Modeling",
+            "Remote Sensing"
+        ],
+        "dependencies": {
+            "GIS": [
+                "Remote Sensing"
+            ]
+        },
+        "learning_paths": {
+            "Environmental Impact Assessment": "Learn EIA procedures and documentation"
+        },
+        "project_ideas": {
+            "GIS": [
+                "Map urban green spaces using QGIS"
+            ]
+        }
+    },
+    "Food Technologist": {
+        "must_have": [
+            "Food Safety",
+            "Quality Assurance",
+            "Nutritional Analysis",
+            "Food Processing"
+        ],
+        "optional": [
+            "HACCP",
+            "Shelf-life Testing",
+            "Microbiology"
+        ],
+        "dependencies": {
+            "Food Safety": [
+                "Microbiology"
+            ]
+        },
+        "learning_paths": {
+            "Quality Assurance": "Set up QA labs and protocols"
+        },
+        "project_ideas": {
+            "Food Processing": [
+                "Design a new snack product formulation"
+            ]
+        }
+    },
+    "Agricultural Engineer": {
+        "must_have": [
+            "Irrigation Systems",
+            "Farm Machinery",
+            "Soil Mechanics",
+            "Precision Agriculture"
+        ],
+        "optional": [
+            "Drones",
+            "GIS",
+            "Agroinformatics"
+        ],
+        "dependencies": {
+            "Precision Agriculture": [
+                "GIS"
+            ]
+        },
+        "learning_paths": {
+            "Irrigation Systems": "Design and test drip irrigation",
+            "Soil Mechanics": "Test soil strength and moisture"
+        },
+        "project_ideas": {
+            "Precision Agriculture": [
+                "Drone-based crop monitoring"
+            ]
+        }
+    },
+    "Mining Engineer": {
+        "must_have": [
+            "Mine Planning",
+            "Rock Mechanics",
+            "Drilling & Blasting",
+            "Ventilation"
+        ],
+        "optional": [
+            "AutoCAD",
+            "Surpac",
+            "Geostatistics"
+        ],
+        "dependencies": {
+            "Drilling & Blasting": [
+                "Rock Mechanics"
+            ]
+        },
+        "learning_paths": {
+            "Mine Planning": "Learn open-pit and underground methods"
+        },
+        "project_ideas": {
+            "Drilling & Blasting": [
+                "Optimize blast patterns for efficiency"
+            ]
+        }
+    },
+    "Geospatial Analyst": {
+        "must_have": [
+            "GIS",
+            "Remote Sensing",
+            "Cartography",
+            "Spatial Analysis"
+        ],
+        "optional": [
+            "QGIS",
+            "ArcGIS",
+            "Python for GIS"
+        ],
+        "dependencies": {
+            "GIS": [
+                "Remote Sensing"
+            ],
+            "Spatial Analysis": [
+                "GIS"
+            ]
+        },
+        "learning_paths": {
+            "Cartography": "Create maps for disaster risk zones"
+        },
+        "project_ideas": {
+            "GIS": [
+                "Map flood-prone areas in a region"
+            ]
+        }
+    },
+    "Pharmaceutical Scientist": {
+        "must_have": [
+            "Drug Formulation",
+            "Pharmacokinetics",
+            "Toxicology",
+            "Clinical Trials"
+        ],
+        "optional": [
+            "Bioinformatics",
+            "Regulatory Affairs",
+            "GMP"
+        ],
+        "dependencies": {
+            "Clinical Trials": [
+                "Pharmacokinetics"
+            ]
+        },
+        "learning_paths": {
+            "Drug Formulation": "Design sustained release tablets"
+        },
+        "project_ideas": {
+            "Clinical Trials": [
+                "Simulate phase-2 trial results"
+            ]
+        }
+    },
+    "Astrophysicist": {
+        "must_have": [
+            "Astrophysics",
+            "Mathematical Modeling",
+            "Data Analysis",
+            "Telescope Operations"
+        ],
+        "optional": [
+            "Python",
+            "MATLAB",
+            "Machine Learning"
+        ],
+        "dependencies": {
+            "Data Analysis": [
+                "Python"
+            ]
+        },
+        "learning_paths": {
+            "Astrophysics": "Study stellar and galactic physics"
+        },
+        "project_ideas": {
+            "Telescope Operations": [
+                "Design automated sky survey system"
+            ]
+        }
+    },
+    "Materials Scientist": {
+        "must_have": [
+            "Material Characterization",
+            "SEM",
+            "XRD",
+            "Polymer Science"
+        ],
+        "optional": [
+            "Metallurgy",
+            "Nanomaterials",
+            "MATLAB"
+        ],
+        "dependencies": {
+            "SEM": [
+                "Material Characterization"
+            ]
+        },
+        "learning_paths": {
+            "XRD": "Learn crystallography and diffraction",
+            "Polymer Science": "Study properties of plastics and rubbers"
+        },
+        "project_ideas": {
+            "Nanomaterials": [
+                "Develop nanoscale coating"
+            ]
+        }
+    },
+    "Nuclear Engineer": {
+        "must_have": [
+            "Nuclear Physics",
+            "Radiation Safety",
+            "Reactor Design",
+            "Thermal Hydraulics"
+        ],
+        "optional": [
+            "ANSYS",
+            "Fortran",
+            "Nuclear Materials"
+        ],
+        "dependencies": {
+            "Reactor Design": [
+                "Thermal Hydraulics"
+            ]
+        },
+        "learning_paths": {
+            "Radiation Safety": "Learn shielding and dosimetry techniques"
+        },
+        "project_ideas": {
+            "Reactor Design": [
+                "Simulate core cooling mechanisms"
+            ]
+        }
+    },
+    "Operations Manager": {
+        "must_have": [
+            "Process Optimization",
+            "Inventory Management",
+            "Supply Chain",
+            "Lean Management"
+        ],
+        "optional": [
+            "Six Sigma",
+            "ERP Systems",
+            "Logistics"
+        ],
+        "dependencies": {
+            "Process Optimization": [
+                "Lean Management"
+            ]
+        },
+        "learning_paths": {
+            "Supply Chain": "Understand end-to-end SCM operations"
+        },
+        "project_ideas": {
+            "Inventory Management": [
+                "Automate reorder points"
+            ]
+        }
+    },
+    "Talent Acquisition Specialist": {
+        "must_have": [
+            "Sourcing",
+            "Interviewing",
+            "Onboarding",
+            "ATS Tools"
+        ],
+        "optional": [
+            "Employer Branding",
+            "Referral Campaigns"
+        ],
+        "dependencies": {
+            "Sourcing": [
+                "Job Portals"
+            ]
+        },
+        "learning_paths": {
+            "ATS Tools": "Learn Workday / Greenhouse ATS"
+        },
+        "project_ideas": {
+            "Sourcing": [
+                "Plan a hackathon-based hiring strategy"
+            ]
+        }
+    },
+    "Customer Success Manager": {
+        "must_have": [
+            "Customer Retention",
+            "Onboarding",
+            "Feedback Analysis",
+            "Relationship Management"
+        ],
+        "optional": [
+            "CRM Tools",
+            "Upselling"
+        ],
+        "dependencies": {
+            "Customer Retention": [
+                "Relationship Management"
+            ]
+        },
+        "learning_paths": {
+            "Feedback Analysis": "Automate surveys and reports"
+        },
+        "project_ideas": {
+            "Customer Retention": [
+                "Build a churn predictor"
+            ]
+        }
+    },
+    "Finance Analyst": {
+        "must_have": [
+            "Financial Modeling",
+            "Excel",
+            "Budgeting",
+            "Forecasting"
+        ],
+        "optional": [
+            "Tableau",
+            "Power BI"
+        ],
+        "dependencies": {
+            "Budgeting": [
+                "Excel"
+            ]
+        },
+        "learning_paths": {
+            "Financial Modeling": "Build balance sheets and DCF models"
+        },
+        "project_ideas": {
+            "Forecasting": [
+                "Predict revenue for next 6 months"
+            ]
+        }
+    },
+    "Product Marketing Manager": {
+        "must_have": [
+            "Go-to-Market Strategy",
+            "Competitive Analysis",
+            "Customer Persona",
+            "Messaging"
+        ],
+        "optional": [
+            "A/B Testing",
+            "Sales Enablement"
+        ],
+        "dependencies": {
+            "Go-to-Market Strategy": [
+                "Competitive Analysis"
+            ]
+        },
+        "learning_paths": {
+            "Customer Persona": "Map buyer journey insights"
+        },
+        "project_ideas": {
+            "Messaging": [
+                "Design product pitch for SaaS app"
+            ]
+        }
+    },
+    "Compensation and Benefits Analyst": {
+        "must_have": [
+            "Salary Benchmarking",
+            "Payroll Systems",
+            "Benefit Analysis",
+            "Compliance"
+        ],
+        "optional": [
+            "HRIS",
+            "Job Evaluation"
+        ],
+        "dependencies": {
+            "Benefit Analysis": [
+                "Payroll Systems"
+            ]
+        },
+        "learning_paths": {
+            "Compliance": "Learn PF/ESI/labor law regulations"
+        },
+        "project_ideas": {
+            "Salary Benchmarking": [
+                "Design a band structure"
+            ]
+        }
+    },
+    "Procurement Officer": {
+        "must_have": [
+            "Vendor Management",
+            "Purchase Orders",
+            "Cost Negotiation",
+            "Inventory Planning"
+        ],
+        "optional": [
+            "SAP",
+            "Sourcing"
+        ],
+        "dependencies": {
+            "Purchase Orders": [
+                "Vendor Management"
+            ]
+        },
+        "learning_paths": {
+            "Inventory Planning": "Balance stock vs working capital"
+        },
+        "project_ideas": {
+            "Vendor Management": [
+                "Create a vendor scorecard system"
+            ]
+        }
+    },
+    "Learning & Development Specialist": {
+        "must_have": [
+            "Training Need Analysis",
+            "Program Design",
+            "E-learning Tools",
+            "Feedback Collection"
+        ],
+        "optional": [
+            "Instructional Design",
+            "LMS Administration"
+        ],
+        "dependencies": {
+            "Program Design": [
+                "Training Need Analysis"
+            ]
+        },
+        "learning_paths": {
+            "E-learning Tools": "Use Articulate / Canva for course design"
+        },
+        "project_ideas": {
+            "Training Need Analysis": [
+                "Run a competency gap survey"
+            ]
+        }
+    },
+    "Public Relations Specialist": {
+        "must_have": [
+            "Press Releases",
+            "Media Outreach",
+            "Crisis Communication",
+            "Brand Messaging"
+        ],
+        "optional": [
+            "Influencer Marketing",
+            "Event Planning"
+        ],
+        "dependencies": {
+            "Brand Messaging": [
+                "Crisis Communication"
+            ]
+        },
+        "learning_paths": {
+            "Press Releases": "Structure official statements"
+        },
+        "project_ideas": {
+            "Media Outreach": [
+                "Build a media contact database"
+            ]
+        }
+    },
+    "Legal Compliance Officer": {
+        "must_have": [
+            "Regulatory Compliance",
+            "Legal Research",
+            "Contract Drafting",
+            "Risk Assessment"
+        ],
+        "optional": [
+            "Policy Writing",
+            "GDPR"
+        ],
+        "dependencies": {
+            "Contract Drafting": [
+                "Legal Research"
+            ]
+        },
+        "learning_paths": {
+            "Risk Assessment": "Assess legal and financial risks"
+        },
+        "project_ideas": {
+            "Regulatory Compliance": [
+                "Track FCPA compliance for exports"
+            ]
+        }
+    },
+    "Logistics Coordinator": {
+        "must_have": [
+            "Shipment Tracking",
+            "Route Optimization",
+            "Order Fulfillment",
+            "Warehouse Coordination"
+        ],
+        "optional": [
+            "TMS Software",
+            "Reverse Logistics"
+        ],
+        "dependencies": {
+            "Route Optimization": [
+                "Shipment Tracking"
+            ]
+        },
+        "learning_paths": {
+            "Order Fulfillment": "Use WMS tools for dispatch efficiency"
+        },
+        "project_ideas": {
+            "Shipment Tracking": [
+                "Build live dashboard for deliveries"
+            ]
+        }
+    },
+    "Fundraising Manager": {
+        "must_have": [
+            "Grant Writing",
+            "Donor Management",
+            "Event Planning",
+            "Fundraising Strategy"
+        ],
+        "optional": [
+            "CRM",
+            "Impact Reporting"
+        ],
+        "dependencies": {
+            "Donor Management": [
+                "CRM"
+            ]
+        },
+        "learning_paths": {
+            "Grant Writing": "Craft proposals for non-profits"
+        },
+        "project_ideas": {
+            "Fundraising Strategy": [
+                "Plan a donation campaign"
+            ]
+        }
+    },
+    "Corporate Lawyer": {
+        "must_have": [
+            "Corporate Law",
+            "Contract Drafting",
+            "Mergers & Acquisitions",
+            "Due Diligence"
+        ],
+        "optional": [
+            "Negotiation",
+            "Regulatory Compliance"
+        ],
+        "dependencies": {
+            "Mergers & Acquisitions": [
+                "Due Diligence"
+            ]
+        },
+        "learning_paths": {
+            "Corporate Law": "Master business structures & compliance"
+        },
+        "project_ideas": {
+            "Contract Drafting": [
+                "Draft a sample shareholder agreement"
+            ]
+        }
+    },
+    "Litigation Associate": {
+        "must_have": [
+            "Legal Research",
+            "Court Procedures",
+            "Pleading Drafting",
+            "Case Law Analysis"
+        ],
+        "optional": [
+            "Oral Advocacy",
+            "Client Interviews"
+        ],
+        "dependencies": {
+            "Pleading Drafting": [
+                "Legal Research"
+            ]
+        },
+        "learning_paths": {
+            "Court Procedures": "Understand civil vs criminal courts"
+        },
+        "project_ideas": {
+            "Legal Research": [
+                "Build a brief for a civil dispute"
+            ]
+        }
+    },
+    "Intellectual Property Lawyer": {
+        "must_have": [
+            "IP Law",
+            "Trademark Registration",
+            "Patent Filing",
+            "Infringement Analysis"
+        ],
+        "optional": [
+            "Design Rights",
+            "IP Litigation"
+        ],
+        "dependencies": {
+            "Patent Filing": [
+                "IP Law"
+            ]
+        },
+        "learning_paths": {
+            "Trademark Registration": "Understand TM classes and filing"
+        },
+        "project_ideas": {
+            "Infringement Analysis": [
+                "Detect trademark violations"
+            ]
+        }
+    },
+    "Tax Lawyer": {
+        "must_have": [
+            "Income Tax Law",
+            "Tax Planning",
+            "Appeals Filing",
+            "Tax Compliance"
+        ],
+        "optional": [
+            "GST Law",
+            "International Taxation"
+        ],
+        "dependencies": {
+            "Tax Planning": [
+                "Income Tax Law"
+            ]
+        },
+        "learning_paths": {
+            "Tax Compliance": "Understand ITR filing and audits"
+        },
+        "project_ideas": {
+            "Appeals Filing": [
+                "Draft a sample income tax appeal"
+            ]
+        }
+    },
+    "Family Lawyer": {
+        "must_have": [
+            "Family Law",
+            "Divorce Cases",
+            "Custody Battles",
+            "Alimony Settlement"
+        ],
+        "optional": [
+            "Domestic Violence Cases",
+            "Adoption Law"
+        ],
+        "dependencies": {
+            "Custody Battles": [
+                "Divorce Cases"
+            ]
+        },
+        "learning_paths": {
+            "Family Law": "Understand personal laws in India"
+        },
+        "project_ideas": {
+            "Alimony Settlement": [
+                "Draft mutual consent divorce terms"
+            ]
+        }
+    },
+    "Criminal Lawyer": {
+        "must_have": [
+            "Criminal Law",
+            "Trial Procedures",
+            "Cross Examination",
+            "Bail Application"
+        ],
+        "optional": [
+            "Appeal Process",
+            "Evidence Handling"
+        ],
+        "dependencies": {
+            "Trial Procedures": [
+                "Criminal Law"
+            ]
+        },
+        "learning_paths": {
+            "Cross Examination": "Develop questioning strategies"
+        },
+        "project_ideas": {
+            "Bail Application": [
+                "Draft anticipatory bail for an FIR"
+            ]
+        }
+    },
+    "Compliance Officer": {
+        "must_have": [
+            "Compliance Audits",
+            "Internal Controls",
+            "Policy Enforcement",
+            "Regulatory Mapping"
+        ],
+        "optional": [
+            "ISO Standards",
+            "Anti-Bribery Frameworks"
+        ],
+        "dependencies": {
+            "Policy Enforcement": [
+                "Internal Controls"
+            ]
+        },
+        "learning_paths": {
+            "Compliance Audits": "Conduct internal compliance checks"
+        },
+        "project_ideas": {
+            "Internal Controls": [
+                "Create SOP for data protection"
+            ]
+        }
+    },
+    "Legal Content Writer": {
+        "must_have": [
+            "Legal Research",
+            "SEO Writing",
+            "Content Structuring",
+            "Law Terminology"
+        ],
+        "optional": [
+            "Blogging",
+            "Whitepapers"
+        ],
+        "dependencies": {
+            "Content Structuring": [
+                "SEO Writing"
+            ]
+        },
+        "learning_paths": {
+            "SEO Writing": "Write legal blogs with optimized titles"
+        },
+        "project_ideas": {
+            "Law Terminology": [
+                "Create a glossary of key legal terms"
+            ]
+        }
+    },
+    "Legal Operations Analyst": {
+        "must_have": [
+            "Legal Tech Tools",
+            "Workflow Automation",
+            "Contract Lifecycle Management",
+            "Data Reporting"
+        ],
+        "optional": [
+            "DocuSign",
+            "Legal Spend Management"
+        ],
+        "dependencies": {
+            "Contract Lifecycle Management": [
+                "Legal Tech Tools"
+            ]
+        },
+        "learning_paths": {
+            "Workflow Automation": "Streamline legal requests"
+        },
+        "project_ideas": {
+            "Data Reporting": [
+                "Build a dashboard of legal KPIs"
+            ]
+        }
+    },
+    "Environment & Energy Lawyer": {
+        "must_have": [
+            "Environmental Law",
+            "ESG Compliance",
+            "Climate Policy",
+            "Pollution Regulation"
+        ],
+        "optional": [
+            "Renewable Energy Law",
+            "Biodiversity Law"
+        ],
+        "dependencies": {
+            "ESG Compliance": [
+                "Climate Policy"
+            ]
+        },
+        "learning_paths": {
+            "Environmental Law": "Study NGT & international frameworks"
+        },
+        "project_ideas": {
+            "Pollution Regulation": [
+                "Draft waste disposal legal notice"
+            ]
+        }
+    },
+    "Banking & Finance Lawyer": {
+        "must_have": [
+            "Banking Regulations",
+            "Loan Agreements",
+            "NBFC Law",
+            "Security Enforcement"
+        ],
+        "optional": [
+            "RBI Compliance",
+            "Bankruptcy Code"
+        ],
+        "dependencies": {
+            "Loan Agreements": [
+                "Banking Regulations"
+            ]
+        },
+        "learning_paths": {
+            "Banking Regulations": "Understand RBI Act, SARFAESI, etc."
+        },
+        "project_ideas": {
+            "NBFC Law": [
+                "Draft a loan sanction letter"
+            ]
+        }
+    },
+    "Legal Auditor": {
+        "must_have": [
+            "Document Review",
+            "Contract Auditing",
+            "Regulatory Checklists",
+            "Internal Legal Reports"
+        ],
+        "optional": [
+            "SOX Compliance",
+            "Anti-Money Laundering"
+        ],
+        "dependencies": {
+            "Contract Auditing": [
+                "Document Review"
+            ]
+        },
+        "learning_paths": {
+            "Regulatory Checklists": "Prepare audit-ready SOPs"
+        },
+        "project_ideas": {
+            "Internal Legal Reports": [
+                "Compile compliance deviation logs"
+            ]
+        }
+    },
+    "Arbitration Specialist": {
+        "must_have": [
+            "Arbitration Law",
+            "Dispute Resolution",
+            "Award Drafting",
+            "Negotiation"
+        ],
+        "optional": [
+            "International Arbitration",
+            "Mediation"
+        ],
+        "dependencies": {
+            "Award Drafting": [
+                "Dispute Resolution"
+            ]
+        },
+        "learning_paths": {
+            "Arbitration Law": "Learn UNCITRAL and Indian Arbitration Act"
+        },
+        "project_ideas": {
+            "Dispute Resolution": [
+                "Create a case flow timeline"
+            ]
+        }
+    },
+    "Cyber Law Consultant": {
+        "must_have": [
+            "IT Act",
+            "Data Privacy",
+            "Cybercrime Litigation",
+            "Digital Evidence"
+        ],
+        "optional": [
+            "Blockchain Law",
+            "Cybersecurity Audits"
+        ],
+        "dependencies": {
+            "Cybercrime Litigation": [
+                "IT Act"
+            ]
+        },
+        "learning_paths": {
+            "Data Privacy": "Understand GDPR, DPDPA and HIPAA"
+        },
+        "project_ideas": {
+            "Digital Evidence": [
+                "Design a digital forensics checklist"
+            ]
+        }
+    },
+    "Security Analyst": {
+        "must_have": [
+            "Network Security",
+            "SIEM Tools",
+            "Threat Detection",
+            "Incident Response"
+        ],
+        "optional": [
+            "IDS/IPS",
+            "Linux"
+        ],
+        "dependencies": {
+            "SIEM Tools": [
+                "Network Security"
+            ],
+            "Incident Response": [
+                "Threat Detection"
+            ]
+        },
+        "learning_paths": {
+            "SIEM Tools": "Learn Splunk or IBM QRadar",
+            "Incident Response": "Master NIST IR Framework"
+        },
+        "project_ideas": {
+            "Threat Detection": [
+                "Build a log analysis tool"
+            ],
+            "Incident Response": [
+                "Simulate a phishing attack response"
+            ]
+        }
+    },
+    "SOC Analyst": {
+        "must_have": [
+            "Log Monitoring",
+            "Event Correlation",
+            "Threat Hunting",
+            "Security Playbooks"
+        ],
+        "optional": [
+            "KQL",
+            "Elastic Stack"
+        ],
+        "dependencies": {
+            "Event Correlation": [
+                "Log Monitoring"
+            ]
+        },
+        "learning_paths": {
+            "Threat Hunting": "Hunt threats with MITRE ATT&CK",
+            "Security Playbooks": "Build SOAR playbooks"
+        },
+        "project_ideas": {
+            "Log Monitoring": [
+                "Create a real-time monitoring dashboard"
+            ]
+        }
+    },
+    "Penetration Tester": {
+        "must_have": [
+            "Ethical Hacking",
+            "OWASP Top 10",
+            "Kali Linux",
+            "Metasploit"
+        ],
+        "optional": [
+            "Wireshark",
+            "Burp Suite"
+        ],
+        "dependencies": {
+            "OWASP Top 10": [
+                "Ethical Hacking"
+            ]
+        },
+        "learning_paths": {
+            "Kali Linux": "Explore tools in Kali Linux",
+            "Metasploit": "Practice exploit development"
+        },
+        "project_ideas": {
+            "Ethical Hacking": [
+                "Perform a mock penetration test"
+            ]
+        }
+    },
+    "Security Engineer": {
+        "must_have": [
+            "Firewall Management",
+            "IDS/IPS",
+            "Endpoint Security",
+            "VPN Configuration"
+        ],
+        "optional": [
+            "Zero Trust Architecture",
+            "Azure Security"
+        ],
+        "dependencies": {
+            "Endpoint Security": [
+                "Firewall Management"
+            ]
+        },
+        "learning_paths": {
+            "IDS/IPS": "Deploy and tune Snort/Suricata",
+            "Zero Trust": "Implement ZTNA in hybrid infra"
+        },
+        "project_ideas": {
+            "Firewall Management": [
+                "Create custom rules with pfSense"
+            ]
+        }
+    },
+    "Application Security Engineer": {
+        "must_have": [
+            "Secure Code Review",
+            "SAST/DAST",
+            "Web Application Firewalls",
+            "Threat Modeling"
+        ],
+        "optional": [
+            "DevSecOps",
+            "CSP Headers"
+        ],
+        "dependencies": {
+            "SAST/DAST": [
+                "Secure Code Review"
+            ]
+        },
+        "learning_paths": {
+            "Threat Modeling": "Learn STRIDE & PASTA frameworks"
+        },
+        "project_ideas": {
+            "Web Application Firewalls": [
+                "Configure ModSecurity for a web app"
+            ]
+        }
+    },
+    "GRC Analyst": {
+        "must_have": [
+            "Governance Frameworks",
+            "Risk Assessment",
+            "Compliance Audits",
+            "ISO 27001"
+        ],
+        "optional": [
+            "NIST 800-53",
+            "GDPR"
+        ],
+        "dependencies": {
+            "Compliance Audits": [
+                "Risk Assessment"
+            ]
+        },
+        "learning_paths": {
+            "ISO 27001": "Understand ISMS implementation"
+        },
+        "project_ideas": {
+            "Governance Frameworks": [
+                "Draft GRC SOP for a small org"
+            ]
+        }
+    },
+    "Digital Forensics Analyst": {
+        "must_have": [
+            "Digital Evidence Collection",
+            "Disk Imaging",
+            "Timeline Analysis",
+            "Chain of Custody"
+        ],
+        "optional": [
+            "Autopsy Tool",
+            "Volatility Framework"
+        ],
+        "dependencies": {
+            "Disk Imaging": [
+                "Digital Evidence Collection"
+            ]
+        },
+        "learning_paths": {
+            "Timeline Analysis": "Learn event correlation in forensic tools"
+        },
+        "project_ideas": {
+            "Chain of Custody": [
+                "Design a chain of evidence document"
+            ]
+        }
+    },
+    "Malware Analyst": {
+        "must_have": [
+            "Reverse Engineering",
+            "Static Analysis",
+            "Dynamic Analysis",
+            "Sandboxing"
+        ],
+        "optional": [
+            "YARA Rules",
+            "Assembly Language"
+        ],
+        "dependencies": {
+            "Static Analysis": [
+                "Reverse Engineering"
+            ]
+        },
+        "learning_paths": {
+            "YARA Rules": "Write rules to detect malware families"
+        },
+        "project_ideas": {
+            "Dynamic Analysis": [
+                "Analyze malware behavior in Cuckoo Sandbox"
+            ]
+        }
+    },
+    "Cloud Security Engineer": {
+        "must_have": [
+            "IAM",
+            "Cloud Firewalls",
+            "Encryption",
+            "Cloud Compliance"
+        ],
+        "optional": [
+            "AWS Security Hub",
+            "Azure Sentinel"
+        ],
+        "dependencies": {
+            "Cloud Firewalls": [
+                "IAM"
+            ]
+        },
+        "learning_paths": {
+            "IAM": "Configure roles/policies in AWS & GCP"
+        },
+        "project_ideas": {
+            "Encryption": [
+                "Implement KMS for a cloud app"
+            ]
+        }
+    },
+    "Web3 Developer": {
+        "must_have": [
+            "dApp Development",
+            "Smart Contracts",
+            "Ethers.js",
+            "IPFS"
+        ],
+        "optional": [
+            "Metamask Integration",
+            "NFT Standards"
+        ],
+        "dependencies": {
+            "dApp Development": [
+                "Smart Contracts"
+            ]
+        },
+        "learning_paths": {
+            "IPFS": "Store data on decentralized network"
+        },
+        "project_ideas": {
+            "Metamask Integration": [
+                "Build a login flow using wallet"
+            ]
+        }
+    },
+    "Blockchain Security Auditor": {
+        "must_have": [
+            "Smart Contract Auditing",
+            "Security Best Practices",
+            "Static Analysis",
+            "Slither"
+        ],
+        "optional": [
+            "MythX",
+            "Bug Bounties"
+        ],
+        "dependencies": {
+            "Smart Contract Auditing": [
+                "Security Best Practices"
+            ]
+        },
+        "learning_paths": {
+            "Slither": "Detect smart contract vulnerabilities"
+        },
+        "project_ideas": {
+            "Bug Bounties": [
+                "Audit an open-source DeFi project"
+            ]
+        }
+    },
+    "Cryptographer": {
+        "must_have": [
+            "Cryptographic Algorithms",
+            "Key Exchange",
+            "Elliptic Curve Cryptography",
+            "Zero Knowledge Proofs"
+        ],
+        "optional": [
+            "Homomorphic Encryption",
+            "Hash Functions"
+        ],
+        "dependencies": {
+            "Zero Knowledge Proofs": [
+                "Cryptographic Algorithms"
+            ]
+        },
+        "learning_paths": {
+            "Elliptic Curve Cryptography": "Understand ECC implementation"
+        },
+        "project_ideas": {
+            "Key Exchange": [
+                "Simulate Diffie-Hellman in Python"
+            ]
+        }
+    },
+    "DeFi Developer": {
+        "must_have": [
+            "Decentralized Finance",
+            "Smart Contracts",
+            "Liquidity Pools",
+            "Uniswap"
+        ],
+        "optional": [
+            "Compound",
+            "DeFi Security"
+        ],
+        "dependencies": {
+            "Liquidity Pools": [
+                "Smart Contracts"
+            ]
+        },
+        "learning_paths": {
+            "Uniswap": "Build a custom swap interface"
+        },
+        "project_ideas": {
+            "Decentralized Finance": [
+                "Clone a simple staking DApp"
+            ]
+        }
+    },
+    "Threat Intelligence Analyst": {
+        "must_have": [
+            "Threat Feeds",
+            "IOC Correlation",
+            "TTP Mapping",
+            "MITRE ATT&CK"
+        ],
+        "optional": [
+            "MISP",
+            "OpenCTI"
+        ],
+        "dependencies": {
+            "IOC Correlation": [
+                "Threat Feeds"
+            ]
+        },
+        "learning_paths": {
+            "MITRE ATT&CK": "Map threats to attack techniques"
+        },
+        "project_ideas": {
+            "TTP Mapping": [
+                "Create threat reports for recent APTs"
+            ]
+        }
+    },
+    "MEAN Stack Developer": {
+        "must_have": [
+            "MongoDB",
+            "Express.js",
+            "Angular",
+            "Node.js"
+        ],
+        "optional": [
+            "TypeScript",
+            "JWT",
+            "Nginx"
+        ],
+        "dependencies": {
+            "Express.js": [
+                "Node.js"
+            ],
+            "Angular": [
+                "TypeScript"
+            ],
+            "JWT": [
+                "Node.js"
+            ],
+            "Nginx": [
+                "Node.js"
+            ]
+        },
+        "learning_paths": {
+            "Angular": "Build CRUD apps with Angular",
+            "Express.js": "Develop REST APIs with Express",
+            "MongoDB": "Model schemas and relations in MongoDB"
+        },
+        "project_ideas": {
+            "MEAN Stack": [
+                "Build a blogging platform",
+                "Create a job board with role-based login"
+            ]
+        }
+    },
+    "MERN Stack Developer": {
+        "must_have": [
+            "MongoDB",
+            "Express.js",
+            "React",
+            "Node.js"
+        ],
+        "optional": [
+            "Redux",
+            "JWT",
+            "Tailwind CSS"
+        ],
+        "dependencies": {
+            "Express.js": [
+                "Node.js"
+            ],
+            "React": [
+                "JavaScript"
+            ],
+            "Redux": [
+                "React"
+            ],
+            "JWT": [
+                "Node.js"
+            ]
+        },
+        "learning_paths": {
+            "React": "Build component-based UIs with hooks",
+            "MongoDB": "Integrate Mongoose in Express backend",
+            "JWT": "Secure APIs with JWT auth"
+        },
+        "project_ideas": {
+            "MERN Stack": [
+                "Build a task manager",
+                "Create a video sharing site"
+            ]
+        }
+    },
+    "Angular Developer": {
+        "must_have": [
+            "Angular",
+            "TypeScript",
+            "RxJS",
+            "HTML",
+            "CSS"
+        ],
+        "optional": [
+            "NgRx",
+            "Tailwind CSS",
+            "Firebase"
+        ],
+        "dependencies": {
+            "Angular": [
+                "TypeScript"
+            ],
+            "NgRx": [
+                "RxJS"
+            ],
+            "Tailwind CSS": [
+                "CSS"
+            ]
+        },
+        "learning_paths": {
+            "Angular": "Master Angular routing and forms",
+            "RxJS": "Learn reactive programming",
+            "NgRx": "State management in Angular"
+        },
+        "project_ideas": {
+            "Angular": [
+                "Build a resume builder",
+                "Create a portfolio admin panel"
+            ]
+        }
+    },
+    "Python Developer": {
+        "must_have": [
+            "Python",
+            "OOP",
+            "Flask",
+            "SQL"
+        ],
+        "optional": [
+            "Django",
+            "Pandas",
+            "REST APIs"
+        ],
+        "dependencies": {
+            "Flask": [
+                "Python"
+            ],
+            "Django": [
+                "Python"
+            ],
+            "Pandas": [
+                "Python"
+            ]
+        },
+        "learning_paths": {
+            "Flask": "Create REST APIs with Flask",
+            "Django": "Build MVC apps with Django",
+            "Pandas": "Manipulate datasets efficiently"
+        },
+        "project_ideas": {
+            "Python": [
+                "Build a blog backend",
+                "Create a resume parser"
+            ]
+        }
+    },
+    "Java Developer": {
+        "must_have": [
+            "Java",
+            "OOP",
+            "Spring Boot",
+            "REST APIs"
+        ],
+        "optional": [
+            "Hibernate",
+            "MySQL",
+            "Maven"
+        ],
+        "dependencies": {
+            "Spring Boot": [
+                "Java"
+            ],
+            "Hibernate": [
+                "Spring Boot"
+            ],
+            "Maven": [
+                "Java"
+            ]
+        },
+        "learning_paths": {
+            "Spring Boot": "Build secure APIs using Spring Boot",
+            "Hibernate": "Map Java classes to DB tables",
+            "Maven": "Manage Java project builds"
+        },
+        "project_ideas": {
+            "Java": [
+                "Build a hospital management system",
+                "Create a gig application backend"
+            ]
+        }
+    },
+    "JavaScript Developer": {
+        "must_have": [
+            "JavaScript",
+            "ES6+",
+            "DOM Manipulation",
+            "Async Programming"
+        ],
+        "optional": [
+            "TypeScript",
+            "Webpack",
+            "Fetch API"
+        ],
+        "dependencies": {
+            "Async Programming": [
+                "JavaScript"
+            ],
+            "TypeScript": [
+                "JavaScript"
+            ]
+        },
+        "learning_paths": {
+            "JavaScript": "Deep dive into closures and prototypes",
+            "DOM Manipulation": "Create dynamic UIs from scratch"
+        },
+        "project_ideas": {
+            "JavaScript": [
+                "Build a calculator",
+                "Create a mini game like Snake"
+            ]
+        }
+    },
+    "React Developer": {
+        "must_have": [
+            "React",
+            "JavaScript",
+            "Hooks",
+            "JSX"
+        ],
+        "optional": [
+            "Redux",
+            "TypeScript",
+            "Tailwind CSS"
+        ],
+        "dependencies": {
+            "Hooks": [
+                "React"
+            ],
+            "Redux": [
+                "React"
+            ],
+            "TypeScript": [
+                "JavaScript"
+            ]
+        },
+        "learning_paths": {
+            "React": "Understand component lifecycle",
+            "Hooks": "Use useState and useEffect effectively"
+        },
+        "project_ideas": {
+            "React": [
+                "Build a quiz app",
+                "Create a notes app with theme toggle"
+            ]
+        }
+    },
+    "Next.js Developer": {
+        "must_have": [
+            "React",
+            "Next.js",
+            "Routing",
+            "API Routes"
+        ],
+        "optional": [
+            "Tailwind CSS",
+            "TypeScript",
+            "Redux Toolkit"
+        ],
+        "dependencies": {
+            "Next.js": [
+                "React"
+            ],
+            "Redux Toolkit": [
+                "React"
+            ],
+            "Tailwind CSS": [
+                "CSS"
+            ]
+        },
+        "learning_paths": {
+            "Next.js": "Build SSR apps with routing and auth",
+            "API Routes": "Create backend logic inside frontend repo"
+        },
+        "project_ideas": {
+            "Next.js": [
+                "Create a blog with dynamic routes",
+                "Build a SaaS landing page"
+            ]
+        }
+    },
+    "Full Stack Developer": {
+        "must_have": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Express.js",
+            "REST APIs",
+            "Git",
+            "Responsive Design"
+        ],
+        "optional": [
+            "Angular",
+            "Vue.js",
+            "TypeScript",
+            "Python",
+            "Django",
+            "Flask",
+            "PHP",
+            "Laravel",
+            "Next.js",
+            "MySQL",
+            "PostgreSQL",
+            "Firebase",
+            "GraphQL",
+            "Docker",
+            "Kubernetes",
+            "Redis",
+            "CI/CD"
+        ],
+        "dependencies": {
+            "React": [
+                "JavaScript"
+            ],
+            "Node.js": [
+                "JavaScript"
+            ],
+            "Express.js": [
+                "Node.js"
+            ],
+            "MongoDB": [
+                "Mongoose"
+            ],
+            "TypeScript": [
+                "JavaScript"
+            ],
+            "Next.js": [
+                "React"
+            ],
+            "Vue.js": [
+                "JavaScript"
+            ],
+            "Django": [
+                "Python"
+            ],
+            "Laravel": [
+                "PHP"
+            ],
+            "GraphQL": [
+                "Node.js"
+            ],
+            "Docker": [
+                "Linux"
+            ],
+            "CI/CD": [
+                "Git"
+            ]
+        },
+        "learning_paths": {
+            "MERN Stack": "Build a social media app using MongoDB, Express, React, and Node",
+            "MEAN Stack": "Develop an e-commerce platform using Angular and Node",
+            "LAMP Stack": "Set up a blogging CMS using PHP and MySQL",
+            "JAMstack": "Learn headless CMS with static site generation (e.g., Gatsby/Next.js)",
+            "GraphQL": "Query complex data using Apollo GraphQL",
+            "CI/CD": "Automate deployments with GitHub Actions and Docker"
+        },
+        "project_ideas": {
+            "React": [
+                "Build a task manager with drag-and-drop UI",
+                "Develop a multi-step form wizard"
+            ],
+            "Node.js": [
+                "Create a real-time chat app using Socket.io"
+            ],
+            "MongoDB": [
+                "Build a user feedback dashboard"
+            ],
+            "Django": [
+                "Develop a student result management system"
+            ],
+            "Laravel": [
+                "Create a hotel booking engine"
+            ],
+            "Docker": [
+                "Containerize a microservice architecture"
+            ],
+            "GraphQL": [
+                "Build an API for an analytics dashboard"
+            ]
+        }
+    },
+    ".NET Developer": {
+        "must_have": [
+            "C#",
+            ".NET Core",
+            "ASP.NET MVC",
+            "Entity Framework",
+            "SQL Server",
+            "REST APIs",
+            "Visual Studio",
+            "LINQ",
+            "OOP"
+        ],
+        "optional": [
+            "Azure DevOps",
+            "Blazor",
+            "Xamarin",
+            "WPF",
+            "Windows Forms",
+            "Microservices",
+            "RabbitMQ",
+            "Docker",
+            "Swagger",
+            "Unit Testing",
+            "SignalR",
+            "gRPC"
+        ],
+        "dependencies": {
+            ".NET Core": [
+                "C#"
+            ],
+            "ASP.NET MVC": [
+                ".NET Core"
+            ],
+            "Entity Framework": [
+                ".NET Core"
+            ],
+            "LINQ": [
+                "C#"
+            ],
+            "Blazor": [
+                ".NET Core"
+            ],
+            "SignalR": [
+                "ASP.NET MVC"
+            ],
+            "gRPC": [
+                ".NET Core"
+            ],
+            "Swagger": [
+                "REST APIs"
+            ]
+        },
+        "learning_paths": {
+            "ASP.NET MVC": "Build enterprise web apps using ASP.NET MVC",
+            "Entity Framework": "Master database-first and code-first approaches",
+            "Blazor": "Develop SPA apps using C# and Razor components",
+            "Azure DevOps": "Implement CI/CD for .NET apps",
+            "Docker": "Deploy .NET microservices in Docker containers"
+        },
+        "project_ideas": {
+            "ASP.NET MVC": [
+                "Build an employee leave management system",
+                "Create a helpdesk ticketing platform"
+            ],
+            "Entity Framework": [
+                "Design a university course enrollment app"
+            ],
+            "SignalR": [
+                "Develop a real-time notification system"
+            ],
+            "Blazor": [
+                "Build a personal finance tracking tool"
+            ],
+            "Xamarin": [
+                "Create a cross-platform to-do list app"
+            ]
+        }
+    }
+}
